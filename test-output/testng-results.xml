@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-21T10:21:26 IST" name="Default suite" finished-at="2023-04-21T10:21:43 IST" duration-ms="17561">
+  <suite started-at="2024-03-19T12:38:22 IST" name="Default suite" finished-at="2024-03-19T12:38:43 IST" duration-ms="21419">
     <groups>
     </groups>
-    <test started-at="2023-04-21T10:21:26 IST" name="Default test" finished-at="2023-04-21T10:21:43 IST" duration-ms="17561">
+    <test started-at="2024-03-19T12:38:22 IST" name="Default test" finished-at="2024-03-19T12:38:43 IST" duration-ms="21419">
       <class name="com.org.testCase.TC_MyAccountPage">
-        <test-method is-config="true" signature="setUpbrowser()[pri:0, instance:com.org.testCase.TC_MyAccountPage@351d00c0]" started-at="2023-04-21T10:21:26 IST" name="setUpbrowser" finished-at="2023-04-21T10:21:38 IST" duration-ms="12293" status="PASS">
+        <test-method is-config="true" signature="setUpbrowser()[pri:0, instance:com.org.testCase.TC_MyAccountPage@dd8ba08]" started-at="2024-03-19T12:38:22 IST" name="setUpbrowser" finished-at="2024-03-19T12:38:36 IST" duration-ms="14650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpbrowser -->
-        <test-method signature="verifyRegistration()[pri:0, instance:com.org.testCase.TC_MyAccountPage@351d00c0]" started-at="2023-04-21T10:21:38 IST" name="verifyRegistration" finished-at="2023-04-21T10:21:43 IST" duration-ms="5194" status="PASS">
+        <test-method signature="verifyRegistration()[pri:0, instance:com.org.testCase.TC_MyAccountPage@dd8ba08]" started-at="2024-03-19T12:38:36 IST" name="verifyRegistration" finished-at="2024-03-19T12:38:43 IST" duration-ms="6689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRegistration -->
